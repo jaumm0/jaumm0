@@ -31,37 +31,13 @@ Apaixonado por **design funcional**, **código limpo** e **aprendizado contínuo
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
 
-<p align="left">
-  <img 
-    alt="HTML"
-    title="HTML" 
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
-  <img 
-    alt="CSS" 
-    title="CSS"
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
-  <img 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />
-  <img 
-    alt="React"
-    title="React"
-    width="35px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-  />
-  <img 
-    alt="Tailwind"
-    title="Tailwind CSS"
-    width="35px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-  />
-</p>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
