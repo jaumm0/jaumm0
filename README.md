@@ -4,7 +4,7 @@
 <a href="https://https://www.linkedin.com/in/joaoanjoadev/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 </p>
-<a href="mailto:felipemotarocha@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 ---
 **`Desenvolvedor Front-End React`**
 
